@@ -3,7 +3,7 @@
 //Your code here
 
 import java.util.Scanner;
-
+//Class name should match file name
 public class IntegerOperation{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
